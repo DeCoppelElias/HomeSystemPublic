@@ -1,3 +1,5 @@
+To ensure the security of the implemented system, the code is kept private.
+
 # Home System
 I developed a home automation system, which is powered by a Python server using the Flask framework. This server is designed to manage various functions within the house and allows authenticated users on the local network to control these features remotely. By leveraging Flask's capabilities, the server handles incoming requests from users, verifies their authentication, and then performs the requested actions. This setup provides a secure and efficient way for household members to interact with and automate different aspects of their home environment.
 
